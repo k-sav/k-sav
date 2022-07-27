@@ -1,1 +1,1 @@
-![Alt text](tiles1.jpeg?raw=true "How to choose bathroom tiles")
+![How to choose bathroom tiles](tiles1.jpeg)
